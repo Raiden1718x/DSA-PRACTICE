@@ -17,6 +17,6 @@ A repository for practicing **Data Structures and Algorithms (DSA)** problems in
 
 ## How to Use
 
-1. Clone the repository:  
+Clone the repository:  
 ```bash
 git clone https://github.com/Raiden1718x/DSA-PRACTICE.git
