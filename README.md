@@ -8,10 +8,10 @@ A repository for practicing **Data Structures and Algorithms (DSA)** problems in
 
 - Arrays
 - Linked Lists (Singly, Doubly, Circular)
-- Stacks & Queues (including Circular Queue)
-- Sorting Algorithms (Bubble, Insertion, Selection, etc.)
+- Stacks (Linked List Implementation, Array Implementation)
+- Queues (Linked List Implementation, Array Implementation, Circular Queue)
+- Sorting Algorithms (Bubble, Insertion, Selection)
 - Searching Algorithms (Linear, Binary)
-- Trees & Graphs (Basic implementations)
 
 ---
 
