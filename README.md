@@ -19,4 +19,4 @@ A repository for implementing **Data Structures and Algorithms (DSA)** in C.
 
 Clone the repository:  
 ```bash
-git clone https://github.com/Raiden1718x/DSA-PRACTICE.git
+git clone https://github.com/Raiden1718x/dsa-implementation.git
