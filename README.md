@@ -1,6 +1,6 @@
-# DSA-PRACTICE
+# DSA-IMPLEMENTATION
 
-A repository for practicing **Data Structures and Algorithms (DSA)** problems in C.  
+A repository for implementing **Data Structures and Algorithms (DSA)** in C.  
 
 ---
 
